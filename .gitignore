@@ -1,0 +1,94 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# If you are using SQLite database files
+db.sqlite3
+
+# Django migrations
+*/migrations/*
+
+# Media files
+/media
+
+# Static files
+/staticfiles
+
+# Local environment settings
+.env
+
+# Node modules
+node_modules/
+
+# VS Code settings
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# macOS files
+.DS_Store
+
+# Coverage reports
+htmlcov/
+.coverage
+*.cover
+.hypothesis/
+
+# Test results
+coverage.xml
+*.cover
+.cache
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.tox/
+.nox/
+coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
